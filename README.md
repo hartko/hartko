@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./mascot.svg" width="220" alt="cute capybara coding on a laptop" />
-</p>
-
 <h1 align="center">Hi, I'm Hart ✿</h1>
 <p align="center">
   Backend developer from Metro Manila, PH · ~8 years building APIs, queues, and the boring-but-important stuff that keeps apps running ☕
