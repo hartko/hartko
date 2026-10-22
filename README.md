@@ -13,18 +13,20 @@
 
 - 💬 Real-time chat and chatbot backends — lead routing, widgets, messaging pipelines
 - ☁️ Cloudflare-native services — Workers, Queues, KV, Vectorize, AI Gateway, Hyperdrive
-- 📅 Side project: a school scheduling system (NestJS + FastAPI auto-generator + Next.js)
+- 📅 Side project: a school scheduling system built on NestJS
 
 ### 🧰 Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,mongodb,redis,rabbitmq,cloudflare,supabase,postgres,python,docker&perline=12" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,mongodb,redis,rabbitmq,cloudflare,supabase,postgres&perline=10" />
 </p>
+
+🤖 I use AI tools like **Claude** and **Cursor** day-to-day to move faster, from scaffolding and debugging to reviewing my own code.
 
 <details>
 <summary>Previously</summary>
 <br/>
-<img src="https://skillicons.dev/icons?i=laravel,php,vue,mysql,nextjs,react" />
+<img src="https://skillicons.dev/icons?i=laravel,php,vue,mysql,react" />
 </details>
 
 ### 📊 GitHub stats
