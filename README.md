@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Hart ✿</h1>
 <p align="center">
-  Backend developer from Metro Manila, PH · ~8 years building APIs, queues, and the boring-but-important stuff that keeps apps running ☕
+  Backend developer from Metro Manila, PH · building APIs, queues, and the boring-but-important stuff that keeps apps running ☕
 </p>
 
 <p align="center">
