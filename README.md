@@ -33,19 +33,6 @@
 
 <p align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ✿ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</p>
 
-### 📊 Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hartko&show_icons=true&hide_border=true&count_private=true&bg_color=FFF0F6&title_color=E26D9B&text_color=6B4F5E&icon_color=B48CDE" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hartko&layout=compact&hide_border=true&bg_color=FFF0F6&title_color=E26D9B&text_color=6B4F5E" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hartko&hide_border=true&background=FFF0F6&ring=F48FB1&fire=E26D9B&currStreakNum=6B4F5E&sideNums=6B4F5E&currStreakLabel=E26D9B&sideLabels=B48CDE&dates=9C8592&stroke=F8C8DC" />
-</p>
-
-<p align="center">⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆ ✿ ⋆｡ﾟ☁︎｡⋆｡ ﾟ☾ ﾟ｡⋆</p>
-
 <p align="center">
   <i>Open to backend contract work — feel free to reach out ♡</i>
 </p>
